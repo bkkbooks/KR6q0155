@@ -1,0 +1,63 @@
+canonical_identifier: bkk:krp/KR6q0155/v1
+canonical_location: https://kanripo.org/bkk/KR6q0155/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 禪林寶訓拈頌
+  identifiers:
+    alt_id:
+    - X64n1264
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X64/X64n1264.xml
+    old_id: X64n1264
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0155_000.yaml, hash: 'sha256:963315ae5beac8101cb318d83a900a7255aac6ef9f47c6276760c022d1e4cdc8'}
+  - {seq: 1, filename: KR6q0155_001.yaml, hash: 'sha256:cba4d02edaad9a0257bf101b9fdccbfc119d42965ca786e7d8ac55e3ef18cfb3'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0155_000.markers.yaml, hash: 'sha256:c5738cdb602ef761244e020581a8eb86c2d3aa9c36b16bb1845328afaa82b444'}
+  - {seq: 1, role: markers, filename: assets/KR6q0155_001.markers.yaml, hash: 'sha256:eda922197da353a2f9bf9fadd1d476d1f8d9f0172b83ac4d4d79f7fb33071153'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0155_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1264-A 禪林寶訓拈頌序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0155_X_000-mulu-2
+    span:
+    - front
+    - 514
+    - 514
+  label: 禪林寶訓拈頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0155_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 6264
+  label: 禪林寶訓拈頌
+  type: juan
+  level: 1
+hash: sha256:87c1bfb6ba5b3768c5a3048359788048a7ee3839cac1d1cb48b5ce4f0c4a94dc
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
