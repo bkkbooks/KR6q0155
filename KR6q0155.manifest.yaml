@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0155_000.yaml, hash: 'sha256:963315ae5beac8101cb318d83a900a7255aac6ef9f47c6276760c022d1e4cdc8'}
-  - {seq: 1, filename: KR6q0155_001.yaml, hash: 'sha256:cba4d02edaad9a0257bf101b9fdccbfc119d42965ca786e7d8ac55e3ef18cfb3'}
+  - {seq: 0, filename: KR6q0155_000.yaml, hash: 'sha256:491384bf44cb6bf3606722acaa6ef66316571bd0a8d72883b05c30332cc8812c'}
+  - {seq: 1, filename: KR6q0155_001.yaml, hash: 'sha256:cfaac8b1acab5e96b7dad39444d022bb198c388accb375106d82093266f67f8b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0155_000.markers.yaml, hash: 'sha256:c5738cdb602ef761244e020581a8eb86c2d3aa9c36b16bb1845328afaa82b444'}
-  - {seq: 1, role: markers, filename: assets/KR6q0155_001.markers.yaml, hash: 'sha256:eda922197da353a2f9bf9fadd1d476d1f8d9f0172b83ac4d4d79f7fb33071153'}
+  - {seq: 0, role: markers, filename: assets/KR6q0155_000.markers.yaml, hash: 'sha256:e55cbd0807f29839acd29a5fdf4e552c22e4879f423583ebbe0946b7960a993d'}
+  - {seq: 1, role: markers, filename: assets/KR6q0155_001.markers.yaml, hash: 'sha256:6b5cbca8aa48ffe6006dc52387c7124c1191cea78a4163b2bab9378b4e68de73'}
 table_of_contents:
 - ref:
     seq: 0
@@ -57,7 +57,4 @@ table_of_contents:
   label: 禪林寶訓拈頌
   type: juan
   level: 1
-hash: sha256:87c1bfb6ba5b3768c5a3048359788048a7ee3839cac1d1cb48b5ce4f0c4a94dc
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:ebd616b271bcc163778c4b7a2599212eb1e7141c13120b293edc859b1950df7a
