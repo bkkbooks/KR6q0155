@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0155_000.yaml, hash: 'sha256:120da04382ddc84c6d56ace6909d5f92bb037a0dac9cb86287ad03b18a07fb18'}
+  - {seq: 0, filename: KR6q0155_000.yaml, hash: 'sha256:ddd6c54d6c267fac6da3cf5648310d1d6099c71fe7b97d0dbe146a3e4b8c90ba'}
   - {seq: 1, filename: KR6q0155_001.yaml, hash: 'sha256:1c93d30410b56af1700318698d8a3923e2d84188a4ec8dfe50f8f58df71b50f4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0155_000.markers.yaml, hash: 'sha256:7ced278cdad6cde0b5288006d31eb4a4e51f7be32404277969a7bf3beb351579'}
+  - {seq: 0, role: markers, filename: assets/KR6q0155_000.markers.yaml, hash: 'sha256:441436c234e8382c180925288fa65ebb6332451383326a99c87f539fb9177f51'}
   - {seq: 1, role: markers, filename: assets/KR6q0155_001.markers.yaml, hash: 'sha256:5d13a388f8ba2187818378e6be55ae44c933231f101d35b3cc3dd5a1b18031da'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0155_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1264-A 禪林寶訓拈頌序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0155_X_000-mulu-2
     span:
-    - front
+    - body
     - 514
     - 514
   label: 禪林寶訓拈頌
@@ -57,7 +57,7 @@ table_of_contents:
   label: 禪林寶訓拈頌
   type: juan
   level: 1
-hash: sha256:b7be9fa83f79866ccb5eb4924ea3857f57ea503da6b696bd86643aa81e37ba77
+hash: sha256:c8bd999035b1fadeeaadcdf89e9d5acda261273057003cc0d47948fee380e4c2
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
